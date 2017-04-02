@@ -1,0 +1,18 @@
+/Screens
+*.class
+App.exe.manifest
+*.txt
+*.ctxt
+/Pictures
+*.exe
+*.jpg
+*.xml
+*.dat
+*.iit
+/Progress
+/Work Time
+/org
+/doc
+*.docx
+ASTGUI.java
+Alternatives.java
