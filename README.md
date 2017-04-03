@@ -1,5 +1,5 @@
 # worktime
-Records work hours manually__
+Records work hours manually  
 Screenshots: 
 ![New User](http://i.imgur.com/QDqxqe6.png)
 ![Change Profile Pic](http://i.imgur.com/kzs4Lyk.png)
