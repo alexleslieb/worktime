@@ -1,3 +1,4 @@
 # worktime
 Records work hours manually
-Screenshots at ![Screenshots of Work Time program](http://imgur.com/a/2zTGN)
+Screenshots: 
+![New User](http://i.imgur.com/QDqxqe6.png)
